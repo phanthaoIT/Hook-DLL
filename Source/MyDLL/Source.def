@@ -1,0 +1,4 @@
+LIBRARY
+EXPORTS
+	start=InitHook
+	remove=UninstallHook
